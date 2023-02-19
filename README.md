@@ -276,7 +276,7 @@ def metadata(img_path=IMAGE_PATH):
   <tr>
     <td align="center"><img src="markdown/ljh.jpg" width="100px;" alt=""/><br /><b>이정형</b><br/>BE, Modeling</td>
     <td align="center"><img src="markdown/yhj.jpg" width="100px;" alt=""/><br /><b>유현주</b><br/>FE</td>
-    <td align="center"><img src="markdown/sbs.jpg" width="100px;" alt=""/><br /><b>송병섭</b><br/>FE</td>
+    <td align="center"><img src="markdown/sbs.jpg" width="100px;" alt=""/><br /><b>송병섭</b><br/>FE, BE</td>
     <td align="center"><img src="markdown/hsk.jpg" width="100px;" alt=""/><br /><b>황순규</b><br/>FE, BE</td>
 </tr>
   <tr>
